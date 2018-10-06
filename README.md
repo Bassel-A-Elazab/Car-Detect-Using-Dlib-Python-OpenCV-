@@ -17,4 +17,14 @@
    Install Numpy from [here](https://pypi.org/project/numpy/) <br>
    Install Dlib for windows from [here](https://pypi.org/project/dlib/) as wheel setup. <br>
    Install Dlib for Linux form [here](https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/) <br>
-   
+  
+# References :- 
+ 1. http://dlib.net/
+ 2. https://www.learnopencv.com/histogram-of-oriented-gradients/
+ 3. https://docs.opencv.org/2.4/doc/tutorials/ml/introduction_to_svm/introduction_to_svm.html
+ 4. http://www.coldvision.io/2017/03/23/vehicle-detection-using-opencv-svm-classifier/
+ 5. https://github.com/danishnazir/Car-Detection-using-HOG-based-Detector-Dlib-
+ 6. http://www.hackevolve.com/create-your-own-object-detector/
+ 
+ # For Contact :- 
+ bassel.alazab@gmail.com
